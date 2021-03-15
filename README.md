@@ -1,2 +1,2 @@
 # Time-Table-Developement-System
-Time Table Gen
+Time Table Generation Software
